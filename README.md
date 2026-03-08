@@ -1,1 +1,1 @@
-# Machine-Learning
+# Dự án cá nhân về mô hình nhận diện cảm xúc
